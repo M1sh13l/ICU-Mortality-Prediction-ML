@@ -1,10 +1,10 @@
 ## Visualizations
 
 ### ROC Curve
-![ROC](images/roc_curve.png)
+![ROC](roc_curve.png)
 
 ### Confusion Matrix
-![CM](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance
-![FI](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
