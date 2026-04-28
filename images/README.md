@@ -5,24 +5,24 @@ The project notebook contains additional exploratory and evaluation plots. The f
 ### Class Distribution
 Shows the original class imbalance before balancing.
 
-![Class_Distribution](images/class_distribution.png)
+![Class Distribution](Class_Distribution.png)
 
 ### Methodology Workflow
 Illustrates the full machine learning pipeline used in the project.
 
-![Methodology_Workflow](images/Methodology_workflow.png)
+![Methodology Workflow](Methodology_Workflow.png)
 
 ### ROC Curve
 Compares discrimination performance across evaluated models.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Confusion Matrix
 Shows final Tuned XGBoost performance at threshold 0.35.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance
 Displays the strongest predictors influencing mortality prediction.
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
