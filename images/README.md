@@ -5,7 +5,7 @@ The project notebook contains additional exploratory and evaluation plots. The f
 ### Class Distribution
 Shows the original class imbalance before balancing.
 
-![Class Distribution](images/class_distribution.png)
+![Class_Distribution](images/class_distribution.png)
 
 ### Methodology Workflow
 Illustrates the full machine learning pipeline used in the project.
